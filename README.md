@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mohsin Khan 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=CS+Graduate+%7C+Android+%26+Web+Dev;Passionate+about+building+real+apps;Flutter+%7C+Kotlin+%7C+React+%7C+SwiftUI+%7C+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=CS+Graduate+%7C+Android+%26+Web+Dev;Passionate+about+building+real+apps;7C+Kotlin+%7C+React+%7C+SwiftUI+%7C+Python" alt="Typing SVG" />
 </p>
 
 ---
