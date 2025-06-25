@@ -8,8 +8,8 @@
 
 ### 🚀 About Me
 
-🔍 A **Computer Science Graduate** and **Android/Web Developer**  
-🛠️ Currently building apps using **Jetpack Compose**, **React**, and **Flutter**  
+🔍 A **Computer Science Graduate** and **IOS/Web Developer**  
+🛠️ Currently building apps using **SwiftUI**, **React**  
 📱 Love transforming ideas into real products — from UI to APIs  
 💼 Former **Tech Lead** at Google Developer Student Club  
 🌍 Exploring **AI agents** and real-time mobile applications  
