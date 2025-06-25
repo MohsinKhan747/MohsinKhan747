@@ -17,6 +17,20 @@
 
 ---
 
+### 📫 Let’s Connect
+
+<p align="left">
+  <a href="mailto:imohsinkhan777@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mohsin-khan777/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/MohsinKhan747"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://instagram.com/lensbymohsin0.0">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
 ### 🧰 Tech Stack
 
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white)
@@ -37,15 +51,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohsinKhan747&layout=compact&theme=tokyonight" height="170px"/>
 </p>
 
----
 
-### 📫 Let’s Connect
-
-<p align="left">
-  <a href="mailto:imohsinkhan777@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mohsin-khan777/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/MohsinKhan747"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
 
 ---
 
